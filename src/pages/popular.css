@@ -1,0 +1,54 @@
+.foodicon {
+    font-size: 40px;
+    color: var(--text3-color);
+    background: #fff;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.popular {
+    text-align: center;
+    padding: 70px 0 20px 0;
+}
+
+.popular h3 {
+    background: #ece9e6;
+    width: 110px;
+    text-align: center;
+    margin: auto;
+}
+
+.popular-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.food {
+    background: #eeeeed;
+    width: 116px;
+    height: auto;
+    text-align: center;
+    border-radius: 8px;
+    margin: 10px 10px 10px 10px;
+}
+
+.food:hover {
+    background: var(--text1-color);
+    cursor: pointer;
+}
+
+.food h5 {
+    font-size: 17px;
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+.food h6 {
+    font-weight: 400;
+    padding-bottom: 10px;
+}

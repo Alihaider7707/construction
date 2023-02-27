@@ -1,0 +1,17 @@
+.gallery h2 {
+    max-width: 400px;
+}
+
+.gallery p {
+    max-width: 453px;
+    padding-top: 20px;
+}
+
+.gallery-btn button {
+    padding: 10px 20px;
+    border: none;
+    background: var(--text1-color);
+    color: var(--text5-color);
+    font-size: 17px;
+    margin-top: 20px;
+}

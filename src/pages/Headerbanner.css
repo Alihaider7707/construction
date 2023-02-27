@@ -1,0 +1,58 @@
+.header-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 12% 0 8% 0;
+}
+
+.headerbanner h1 {
+    max-width: 550px;
+}
+
+.headerbanner p {
+    padding-top: 20px;
+    max-width: 530px;
+    color: var(--list-color);
+}
+
+.btn1 button {
+    padding: 16px 20px;
+    border: none;
+    background: var(--text1-color);
+    color: var(--text5-color);
+    font-size: 17px;
+}
+
+.headerbutton {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.btn2 {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.btn2 button {
+    background: var(--text1-color);
+    border: none;
+    padding: 10px;
+    border-radius: 50%;
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+}
+
+.slider {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.banner-image img {
+    width: 460px;
+}
