@@ -15,8 +15,7 @@ const banner2 = () => {
         <p>
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem
           veritatis sint perferendis beatae nam alias praesentium excepturi
-          ratione quo nesciunt. Impedit corrupti vero fugit quod consequatur eum
-          vel fugiat quasi?
+          ratione quo nesciunt. 
         </p>
         <div className="banner2-btn">
             <button>Order Now</button>

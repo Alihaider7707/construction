@@ -15,3 +15,13 @@
     font-size: 17px;
     margin-top: 20px;
 }
+
+.gallery-images {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gallery-images img {
+    width: 170px;
+}
