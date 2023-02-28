@@ -9,6 +9,7 @@ import galleryimg4 from '../pages/images/pink-coffe.jpg'
 const Gallery = () => {
   return (
     <>
+    <div className="gallery-flex">
       <div className="gallery">
         <h2>Our best gallery from customers</h2>
         <p>
@@ -26,6 +27,7 @@ const Gallery = () => {
       <img src={galleryimg4} alt="" />
       <img src={galleryimg3} alt="" />
      
+      </div>
       </div>
     </>
   );

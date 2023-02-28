@@ -20,8 +20,19 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
+    max-width: 428px;
+    gap: 20px;
 }
 
 .gallery-images img {
     width: 170px;
+}
+
+.gallery-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 40px 10px 20px 10px;
 }
